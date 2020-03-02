@@ -1,2 +1,0 @@
-# Cartoons
-Homework6
